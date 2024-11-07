@@ -10,7 +10,7 @@ I am currently a **Computer Science** major and involved in multiple academic an
 
 I am particularly passionate about software development, data structures, algorithms, and systems architecture, and I am skilled in **C++**, **Java**, **Python**, and **SQL**.
 
----
+
 
 ## Work Experience
 
@@ -26,7 +26,7 @@ I am particularly passionate about software development, data structures, algori
 - **Software Development Intern at The Resolute Group (Apr. 2021 – Jul. 2021)**
     - Developed and maintained software solutions, optimized data flows, and supported IT infrastructure.
 
----
+
 
 ## Skills & Tools
 
@@ -34,7 +34,7 @@ I am particularly passionate about software development, data structures, algori
 - **Frameworks & Tools**: Microsoft Azure, Arduino, Database Management Systems, Linux (Ubuntu), HTML/CSS
 - **Core Competencies**: Data Structures & Algorithms, Debugging, Teamwork, Network Security, Software Development
 
----
+
 
 ## Education
 
@@ -42,13 +42,13 @@ I am particularly passionate about software development, data structures, algori
   **Arizona State University** - Tempe, AZ  
   **Expected Graduation**: December 2025
 
----
+
 
 ## Interests
 
 When I'm not coding, I enjoy playing with my dog, weightlifting, Brazilian Jiu-Jitsu, fishing, and exploring new places.
 
----
+
 
 
 ```cpp
