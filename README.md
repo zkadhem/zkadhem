@@ -11,23 +11,6 @@ I am currently a **Computer Science** major and involved in multiple academic an
 I am particularly passionate about software development, data structures, algorithms, and systems architecture, and I am skilled in **C++**, **Java**, **Python**, and **SQL**.
 
 
-
-## Work Experience
-
-- **QA Specialist Intern at Experis Game Solutions (Jun. 2024 – Aug. 2024)**
-    - Conducted in-depth testing on game builds, documenting bugs, glitches, and gameplay issues.
-    - Developed automated test scripts in **Python** to optimize the testing process and ensure games met player expectations.
-    - Assisted in debugging and optimizing game performance using **Azure DevOps**, **Linux**, **OpenAI**, **MySQL**, and **Python**.
-
-- **Network Administrator at Smoke N Vape World (Mar. 2021 – Sep. 2024)**
-    - Managed network integration for POS systems and maintained computer hardware.
-    - Implemented security protocols to protect sensitive data and maintained system efficiency.
-
-- **Software Development Intern at The Resolute Group (Apr. 2021 – Jul. 2021)**
-    - Developed and maintained software solutions, optimized data flows, and supported IT infrastructure.
-
-
-
 ## Skills & Tools
 
 - **Programming Languages**: C++, Java, Python, MATLAB, SQL, Shell Scripting, x86 Assembly
