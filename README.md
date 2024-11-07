@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I’m **Zain Kadhem**, a Computer Science student at **Arizona State University**, graduating in **December 2025**. With a strong academic foundation and diverse technical experience, I am committed to leveraging my knowledge in **software engineering** to create impactful and efficient solutions.
 
----
+
 
 ## About Me
 
@@ -65,14 +65,14 @@ struct Zain {
         } frontEnd;
         
         struct BackEnd {
-            std::vector<std::string> languages = {"Node.js", "Spring Boot"};
+            vector<string> languages = {"Node.js", "Spring Boot"};
         } backEnd;
         
-        std::vector<std::string> databases = {"MySQL", "PostgreSQL"};
-        std::vector<std::string> misc = {"Git", "Azure"};
+        vector<string> databases = {"MySQL", "PostgreSQL"};
+        vector<string> misc = {"Git", "Azure"};
     } technologies;
 
-    std::string funFact = "The first computer “bug” was an actual real-life bug.";
+    string funFact = "The first computer “bug” was an actual real-life bug.";
 };
 
 // Example instantiation
