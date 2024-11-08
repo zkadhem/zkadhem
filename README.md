@@ -8,7 +8,7 @@ Welcome to my portfolio! I’m **Zain Kadhem**, a Computer Science student at **
 
 I am currently a **Computer Science** major and involved in multiple academic and professional societies, such as the **Software Developers Association (SoDA)**, **IEEE**, and **CodeDevils**. My hands-on experience includes roles in quality assurance, network administration, and software development, which have equipped me with a versatile skill set in the tech industry.
 
-I am particularly passionate about software development, data structures, algorithms, and systems architecture, and I am skilled in **C++**, **Java**, **Python**, and **SQL**.
+I am particularly passionate about software development, data structures, algorithms, and systems architecture, and I am skilled in **C++**, **Java**, **JavaScript**, **Python**, and **SQL**.
 
 
 ## Skills & Tools
