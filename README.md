@@ -13,7 +13,7 @@ I am particularly passionate about software development, data structures, algori
 
 ## Skills & Tools
 
-- **Programming Languages**: C++, Java, Python, MATLAB, SQL, Shell Scripting, x86 Assembly
+- **Programming Languages**: C++, C#, Java, JavaScript, Python, MATLAB, SQL, Shell Scripting, x86 Assembly
 - **Frameworks & Tools**: Microsoft Azure, Arduino, Database Management Systems, Linux (Ubuntu), HTML/CSS
 - **Core Competencies**: Data Structures & Algorithms, Debugging, Teamwork, Network Security, Software Development
 
